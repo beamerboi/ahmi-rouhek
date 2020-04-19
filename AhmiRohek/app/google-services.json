@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486844199288",
+    "firebase_url": "https://ahmi-rouhek.firebaseio.com",
+    "project_id": "ahmi-rouhek",
+    "storage_bucket": "ahmi-rouhek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486844199288:android:61a5a32f41f1718d06188d",
+        "android_client_info": {
+          "package_name": "com.example.ahmirohek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486844199288-5sbm9qk1pevd839njk9aqmrgq7n7rpne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmirohek",
+            "certificate_hash": "f2b9867ab2497a1dd6e5d0f398490cca8fd8d865"
+          }
+        },
+        {
+          "client_id": "486844199288-l1rs2vmet8m6l4l1e08qqfc9dndjggmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_57kpdzfO81kS80z9ry_-GXoVpPYlBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486844199288-l1rs2vmet8m6l4l1e08qqfc9dndjggmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
